@@ -43,10 +43,10 @@
     "name": "My Prtfolio ",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "portfolioT",
-    "category": "",
+    "category": "mern",
     "links": {
       "view": "https://linkedin.com/in/tikeshwar-dewangan-114b2b274",
-      "code": "https://github.com/Tike31/Resume-Screening-machine-Learning"
+      "code": "https://github.com/Tike31/portfolio_Tikeshwar"
     }
   },
   {
