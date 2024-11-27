@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Crop Recommendation system",
+    "desc": "The Crop Recommendation System is a machine learning-based application that provides recommendations for suitable crops",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://linkedin.com/in/tikeshwar-dewangan-114b2b274/",
+      "code": "https://github.com/Tike31/crop-recommendation-using-ML"
+    }
+  },
+  {
+    "name": "resumescreening ",
+    "desc": "This project focuses on analyzing multiple PDF resume files to explore and gain insights from them.",
+    "image": "resumescreening",
+    "category": "android",
+    "links": {
+      "view": "https://linkedin.com/in/tikeshwar-dewangan-114b2b274",
+      "code": "https://github.com/Tike31/Resume-Screening-machine-Learning"
+    }
+  },
+  {
+    "name": "Image-Object-Detection",
+    "desc": "detect the object using machine learng take the result ",
+    "image": "Image-Object-Detection",
+    "category": "mern",
+    "links": {
+      "view": "https://linkedin.com/in/tikeshwar-dewangan-114b2b274",
+      "code": "https://github.com/Tike31/Tike31-Image-Object-Detection-In-Data-Science-master"
+    }
+  },
+  {
+    "name": "Ecommerce Analysis ",
+    "desc": "Analys The ecommerce site who costomer buying the product which place which category ",
+    "image": "ecommerce",
+    "category": "android",
+    "links": {
+      "view": "https:/linkedin.com/in/tikeshwar-dewangan-114b2b274",
+      "code": "https://github.com/Tike31/Ecommerce_Project"
+    }
+  },
+  {
+    "name": "My Prtfolio ",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolioT",
+    "category": "",
+    "links": {
+      "view": "https://linkedin.com/in/tikeshwar-dewangan-114b2b274",
+      "code": "https://github.com/Tike31/Resume-Screening-machine-Learning"
+    }
+  },
+  {
+    "name": "Ecommerce Analysis",
+    "desc": "Analys The ecommerce site who costomer buying the product which place which category ",
+    "image": "ecommerce",
+    "category": "mern",
+    "links": {
+      "view": "https:/linkedin.com/in/tikeshwar-dewangan-114b2b274",
+      "code": "https://github.com/Tike31/Ecommerce_Project"
+    }
+  },
+  {
+    "name": "Crop Recommendation System",
+    "desc": "The Crop Recommendation System is a machine learning-based application that provides recommendations for suitable crops",
+    "image": "notystackandroid",
+    "category": "mern",
+    "links": {
+      "view": "https://linkedin.com/in/tikeshwar-dewangan-114b2b274/",
+      "code": "https://github.com/Tike31/crop-recommendation-using-ML"
+    }
+  },
+  {
+    "name": "Taitanic-survival Analysis",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "Taitanic-survival",
+    "category": "mern",
+    "links": {
+      "view": "https://linkedin.com/in/tikeshwar-dewangan-114b2b274",
+      "code": "https://github.com/Tike31/Taitanic-survival/"
+    }
+  },
+  {
+    "name": "Zomato Costomer Data Analysis ",
+    "desc": "Analysing the data of zomato Costomer And give more importent information ",
+    "image": "Zomato-Data-Analysis-",
+    "category": "lamp",
+    "links": {
+      "view": "https://linkedin.com/in/tikeshwar-dewangan-114b2b274",
+      "code": "https://github.com/Tike31/Zomato-Data-Analysis-"
+    }
+  },
+  {
+    "name": "Movie-Dataset-Analyzing",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "Movie-Dataset-Analyzing",
+    "category": "basicweb",
+    "links": {
+      "view": "https://linkedin.com/in/tikeshwar-dewangan-114b2b274",
+      "code": "https://github.com/Tike31/Movie-Dataset-Analyzing-ML"
+    }
+  }
+]
